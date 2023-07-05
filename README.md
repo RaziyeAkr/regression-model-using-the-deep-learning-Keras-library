@@ -2,7 +2,7 @@
 build a regression model using the deep learning Keras library, and then experiment with increasing the number of training epochs and changing number of hidden layers and see how changing these parameters impacts the model's performance.
 <be><br>
 In this repository, we have used keras models to predict concrete strength data.<br>
-**data**<br>
+**DATA**<br>
 The data used can also be seen in the https://cocl.us/concrete_data.
 In summary, the data that will be used to predict concrete will include the following:<br>
 1-Cement<br>
